@@ -741,13 +741,15 @@ pre>code {
 #my-name {
     font-size: 32px;
     font-weight: bold;
-    color: #292929
+    color: #292929;
+    padding-bottom: 5px;
 }
 
 #my-title {
-    font-size: 20px;
+    font-size: 22px;
     color: #292929;
-    font-weight: 300
+    font-weight: 300;
+    padding-bottom: 5px;
 }
 #my-school {
     font-size: 18px;
